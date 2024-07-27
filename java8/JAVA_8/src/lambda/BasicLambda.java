@@ -12,6 +12,7 @@ class FirstInterfaceImpl{
 
 }
 
+
 public class BasicLambda {
     public static void main(String[] args) {
 
